@@ -3,7 +3,7 @@
 Here is a screenshot of the project:
 
 ![Project Screenshot](images/screenshot.jpg)
-![Project Screenshot](images/video.mp4)
+![Project Screenshot](images/video.gif)
 
 
 
