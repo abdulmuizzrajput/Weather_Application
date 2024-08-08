@@ -1,3 +1,12 @@
+## Screenshots
+
+Here is a screenshot of the project:
+
+![Project Screenshot](images/screenshot.png)
+![Project Screenshot](images/video.mp4)
+
+
+
 # Project Name
 
 **Developed by:** Abdul Muizz Rajput  
@@ -53,5 +62,5 @@ For freelance opportunities, please contact us:
 
 ## Website
 
-For more information about this project, visit our website: [GitHub Repository](https://github.com/abdulmuizzrajput/website)
+For more information about this project, visit our website: [Website Link](https://github.com/abdulmuizzrajput/website)
 
