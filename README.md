@@ -54,7 +54,7 @@ If you have any ideas or suggestions related to this project, please leave a com
 For freelance opportunities, please contact us:
 
 - **Email:** [info@boppixel.in  or muizz7041@gmail.com]
-- **LinkedIn:** [https://pk.linkedin.com/in/abdulmuizzrajput]
+- **LinkedIn:** [Profile Link](https://pk.linkedin.com/in/abdulmuizzrajput)
 
 ## Acknowledgements
 
