@@ -47,7 +47,7 @@ If you have any ideas or suggestions related to this project, please leave a com
 
 ## License
 
-[license:  this project is distributed, MIT License]
+[license:  this project is distributed Under MIT License]
 
 ## Contact
 
