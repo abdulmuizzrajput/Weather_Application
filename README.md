@@ -2,7 +2,7 @@
 
 Here is a screenshot of the project:
 
-![Project Screenshot](images/screenshot.png)
+![Project Screenshot](images/screenshot.jpg)
 ![Project Screenshot](images/video.mp4)
 
 
